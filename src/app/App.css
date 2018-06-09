@@ -1,0 +1,52 @@
+h4>div{
+  text-align: center;
+}
+.mdl-card__subtitle-text {
+  line-height: 1em;
+}
+.listing-card h4{
+  margin: 0;
+  width: 100%;
+}
+.listing-card{
+  width: 100%;
+  background: #3E4EB8;
+}
+.listing-card.mdl-card{
+  height: auto;
+  min-height: auto;
+}
+.listing-card .mdl-textfield{
+  padding: 0;
+  width: 100%;
+}
+.listing-card .mdl-textfield input{
+  font-size: 2em;
+  text-align: center;
+}
+.listing-card  .mdl-card__title{
+  padding: 8px;
+}
+.listing-card > .mdl-card__title,
+.listing-card > .mdl-card__supporting-text,
+.listing-card > .mdl-card__actions,
+.listing-card > .mdl-card__actions > .mdl-button {
+  color: #fff;
+}
+.listing-card > .mdl-card__actions {
+  border-color: rgba(255, 255, 255, 0.2);
+}
+.listing-card > .mdl-card__title {
+  align-items: flex-start;
+}
+.listing-card > .mdl-card__title > h4 {
+  margin-top: 0;
+}
+.listing-card > .mdl-card__actions {
+  display: flex;
+  box-sizing:border-box;
+  align-items: center;
+}
+.listing-card > .mdl-card__actions > .material-icons {
+  padding-right: 10px;
+}

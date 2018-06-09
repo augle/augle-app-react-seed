@@ -1,0 +1,8 @@
+{
+	"main": "./index.html",
+	"admin-main": "./admin-index.html",
+	"verCode": 8,
+	"version": "0.2.6",
+	"modelId": "com.augle.samples.helloworld",
+	"type": "webapp"
+}
